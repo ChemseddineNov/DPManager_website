@@ -146,7 +146,7 @@ const PricingPage = () => {
       name: 'TPE',
       nameAr: 'مؤسسة صغيرة جداً',
       price: isRTL ? '800 دج (السنة الأولى) ثم 15,900 دج/سنة' : '79 000 DA (1ère année) puis 15 900 DA/an',
-      price: isRTL ? '79, دج (السنة الأولى) ثم 15,900 دج/سنة' : '79 000 DA (1ère année) puis 15 900 DA/an',
+      price: isRTL ? '799, دج (السنة الأولى) ثم 15,900 دج/سنة' : '879 000 DA (1ère année) puis 15 900 DA/an',
       description: isRTL ? 'مثالي للشركات الصغيرة' : 'Idéal pour les petites entreprises',
       icon: Users,
       color: 'bg-blue-500',
