@@ -224,8 +224,13 @@ const PricingPage = () => {
                       {isRTL ? plan.nameAr : plan.name}
                     </h3>
                     <p className="text-gray-600 mb-4">{plan.description}</p>
-                    <div className="text-3xl font-bold text-violet-600 mb-2">
-                      {plan.price}
+                    <div className="mb-4">
+                      <div className="text-3xl font-bold text-violet-600">
+                        {plan.price}
+                      </div>
+                      <div className="text-sm text-gray-500 mt-1">
+                        {plan.priceDetail}
+                      </div>
                     </div>
                   </div>
                   
