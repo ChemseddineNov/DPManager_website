@@ -1,0 +1,29 @@
+# Dossier pour les logos des partenaires
+
+Placez ici les logos de vos partenaires aux formats :
+- PNG (recommandé)
+- JPG/JPEG  
+- SVG
+- WebP
+
+## Structure recommandée :
+
+### Partenaires juridiques :
+- partner-legal-1.png (Cabinet Benali & Associés)
+- partner-legal-2.png (SCP Messaoud-Zerrouki)
+- partner-legal-3.png (Cabinet Juridique Alger)
+- partner-legal-4.png (Avocats & Conseils DZ)
+
+### Partenaires techniques :
+- partner-tech-1.png (TechSolutions Algeria)
+- partner-tech-2.png (CloudSecure DZ)
+- partner-tech-3.png (DataFlow Systems)
+- partner-tech-4.png (AlgeriaTech Consulting)
+
+## Taille recommandée :
+- Format carré ou rectangulaire
+- Minimum 200x200px
+- Fond transparent de préférence
+- Format PNG pour la meilleure qualité
+
+Les logos s'afficheront automatiquement dans la page partenaires avec fallback si le fichier n'existe pas.

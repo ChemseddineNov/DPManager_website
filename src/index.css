@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RTL Support for Arabic */
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="rtl"] .space-x-2 > * + * {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+[dir="rtl"] .space-x-3 > * + * {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+[dir="rtl"] .space-x-4 > * + * {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] .text-right {
+  text-align: left;
+}
+
+/* Arabic content alignment */
+[dir="rtl"] .contact-content {
+  text-align: right;
+}
+
+[dir="rtl"] .contact-content h3,
+[dir="rtl"] .contact-content h4,
+[dir="rtl"] .contact-content p,
+[dir="rtl"] .contact-content div {
+  text-align: right;
+}
+
+/* Arabic font support */
+[dir="rtl"] {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Force phone numbers to display LTR even in RTL context */
+.phone-number {
+  direction: ltr;
+  display: inline-block;
+  text-align: left;
+}
+
+[dir="rtl"] .phone-number {
+  direction: ltr;
+  text-align: left;
+}
+/* Animation pour la bannière déroulante des logos */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 30s linear infinite;
+}
+
+/* Pause l'animation au survol */
+.animate-scroll:hover {
+  animation-play-state: paused;
+}
+
+/* Animation pour la bannière déroulante en sens inverse */
+@keyframes scroll-reverse {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-scroll-reverse {
+  animation: scroll-reverse 30s linear infinite;
+}
+
+/* Pause l'animation au survol */
+.animate-scroll-reverse:hover {
+  animation-play-state: paused;
+}

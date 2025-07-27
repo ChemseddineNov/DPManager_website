@@ -1,0 +1,146 @@
+{
+  "fr": [
+    {
+      "id": 1,
+      "title": "Texte de la loi 18-07",
+      "description": "Document PDF",
+      "filename": "Loi 18-07.pdf",
+      "path": "/doc_officiels_fr/Loi 18-07.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Guide de formation N°1 : le cadre juridique",
+      "description": "Document PDF",
+      "filename": "Guide-de-formation-N°1.pdf",
+      "path": "/doc_officiels_fr/Guide-de-formation-N°1.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Guide de formation N°2 : Les notions clés.",
+      "description": "Document PDF",
+      "filename": "Guide-de-formation-N°2.pdf",
+      "path": "/doc_officiels_fr/Guide-de-formation-N°2.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Guide de formation N°3 : Les obligations du responsable de traitement.",
+      "description": "Document PDF",
+      "filename": "Guide-de-formation-N°3.pdf",
+      "path": "/doc_officiels_fr/Guide-de-formation-N°3.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Guide de formation N°4 : Comment se conformer avec la loi 18-07 ?",
+      "description": "Document PDF",
+      "filename": "Guide-de-formation-N°4.pdf",
+      "path": "/doc_officiels_fr/Guide-de-formation-N°4.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Procédure de conformité",
+      "description": "Document PDF",
+      "filename": "Procedure-de-conformite.pdf",
+      "path": "/doc_officiels_fr/Procedure-de-conformite.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Engagement de confidentialité et de non divulgation",
+      "description": "Document Word",
+      "filename": "Engagement-de-confidentialite-et-de-non-divulgation.docx",
+      "path": "/doc_officiels_fr/Engagement-de-confidentialite-et-de-non-divulgation.docx"
+    },
+    {
+      "id": 8,
+      "title": "Notice information lors de collecte de données",
+      "description": "Document Word",
+      "filename": "Model-Notice-information-lors-de-collecte-de-donnees-v1.0.docx",
+      "path": "/doc_officiels_fr/Model-Notice-information-lors-de-collecte-de-donnees-v1.0.docx"
+    },
+    {
+      "id": 9,
+      "title": "Charte de sécurité informatique",
+      "description": "Document Word",
+      "filename": "Modele-Charte-de-securite-informatique.docx",
+      "path": "/doc_officiels_fr/Modele-Charte-de-securite-informatique.docx"
+    },
+    {
+      "id": 10,
+      "title": "Contrat ou accord de sous-traitance",
+      "description": "Document Word",
+      "filename": "modele-contrat-ou-accord-sous-traitance.docx",
+      "path": "/doc_officiels_fr/modele-contrat-ou-accord-sous-traitance.docx"
+    }
+  ],
+  "ar": [
+    {
+      "id": 1,
+      "title": "نص القانون 18-07",
+      "description": "وثيقة PDF",
+      "filename": "القانون 18-07.pdf",
+      "path": "/doc_officiels_ar/القانون 18-07.pdf"
+    },
+    {
+      "id": 2,
+      "title": "دليل التكوين رقم 1 : الإطار القانوني",
+      "description": "وثيقة PDF",
+      "filename": "Guide-de-formation-N°1.pdf",
+      "path": "/doc_officiels_ar/دليل-التكوين-رقم-1-الإطار-القنوني-لحماية-المعطيات.pdf"
+    },
+    {
+      "id": 3,
+      "title": "دليل التكوين رقم 2 : المفاهيم الأساسية",
+      "description": "وثيقة PDF",
+      "filename": "Guide-de-formation-N°2.pdf",
+      "path": "/doc_officiels_ar/دليل-التكوين-رقم-2-المفاهيم-الأساسية.pdf"
+    },
+    {
+      "id": 4,
+      "title": "دليل التكوين رقم 3 : التزامات المسؤول عن المعالجة",
+      "description": "وثيقة PDF",
+      "filename": "Guide-de-formation-N°3.pdf",
+      "path": "/doc_officiels_ar/دليل-التكوين-رقم-3-التزمات-المسؤول-عن-المعالجة-ANPDP-.pdf"
+    },
+    {
+      "id": 5,
+      "title": "دليل التكوين رقم 4 : كيف نمتثل للقانون 18-07؟",
+      "description": "وثيقة PDF",
+      "filename": "Guide-de-formation-N°4.pdf",
+      "path": "/doc_officiels_ar/دليل-التكوين-رقم-4-كيف-تتم-المطابقة-مع-القانون-18-07-ANPDP.pdf"
+    },
+    {
+      "id": 6,
+      "title": "إجراءات المطابقة",
+      "description": "وثيقة PDF",
+      "filename": "Procedure-de-conformite.pdf",
+      "path": "/doc_officiels_ar/إجـراءات-المطابقة-ANPDP-1.2.pdf"
+    },
+    {
+      "id": 7,
+      "title": "التزام بالسرية وعدم الإفشاء",
+      "description": "وثيقة Word",
+      "filename": "Engagement-de-confidentialite-et-de-non-divulgation.docx",
+      "path": "/doc_officiels_ar/الالتزام-بالسرية-وعدم-الإفشاء.docx"
+    },
+    {
+      "id": 8,
+      "title": "مذكرة إعلامية عند جمع البيانات الشخصية",
+      "description": "وثيقة Word",
+      "filename": "Model-Notice-information-lors-de-collecte-de-donnees-v1.0.docx",
+      "path": "/doc_officiels_ar/مذكرة-إعلاميةV1.2.docx"
+    },
+    {
+      "id": 9,
+      "title": "ميثاق الأمن المعلوماتي",
+      "description": "وثيقة Word",
+      "filename": "Modele-Charte-de-securite-informatique.docx",
+      "path": "/doc_officiels_ar/ميثاق-أمن-تكنولوجيا-المعلومات.docx"
+    },
+    {
+      "id": 10,
+      "title": "عقد أو اتفاقية لمعالجة البيانات من الباطن",
+      "description": "وثيقة Word",
+      "filename": "modele-contrat-ou-accord-sous-traitance.docx",
+      "path": "/doc_officiels_ar/نموذج-من-عقد-أو-اتفاق-السرية-مع-معالج-من-الباطن-V1.2.docx"
+    }
+  ]
+}

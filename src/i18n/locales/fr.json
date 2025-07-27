@@ -1,0 +1,397 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "features_menu": "Fonctionnalités",
+    "clients_menu": "Déjà clients ",
+    "resources": {
+      "main": "Ressources",
+      "documents": "Documents à télécharger",
+      "articles": "Articles",
+      "videos": "Vidéos",
+      "caseStudies": "Études de cas",
+      "faq": "FAQ"
+    },
+    "partners": {
+      "main": "Partenaires",
+      "link1": "Nos partenaires",
+      "link2": "Devenir partenaire"
+    },
+    "contact": "Contact",
+    "requestDemo": "Demander une démo"
+ },
+
+ "home": {
+    "hero": {
+      "title": "Loi 18-07 : Votre conformité en toute sérénité.",
+      "titleHighlight": "",
+      "subtitle": "DP-Manager est la première plateforme algérienne de conformité qui centralise le registre des traitements, les consentements, les obligations d'information et la gestion des sous-traitants.",
+      "ctaPrimary": "Demander une démo",
+      "ctaSecondary": "Découvrir les fonctionnalités",
+      "videoTitle": "Vidéo explicative",
+      "videoSubtitle": "DP-Manager en 3 minutes"
+    },
+    "clients": {
+      "subtitle": "Ils nous font confiance..."
+    },
+    "features": {
+      "title": "Tout ce dont vous avez besoin pour la conformité",
+      "subtitle": "Notre plateforme couvre l'ensemble des obligations de la loi 18-07 avec des outils pratiques et juridiquement robustes.",
+      "registry": {
+        "title": "Registre automatisé des traitements",
+        "description": "Créez et maintenez automatiquement votre registre des activités de traitement conformément aux articles 13 et 14 de la loi 18-07.",
+        "feature1": "Modèles pré-configurés",
+        "feature2": "Mise à jour automatique"
+      },
+      "subcontractors": {
+        "title": "Gestion des sous-traitants",
+        "description": "Gagnez du temps en saisissant, suivant et générant vos contrats de sous-traitance dans le respect des exigences légales.",
+        "feature1": "Contrats automatisés",
+        "feature2": "Suivi des obligations"
+      },
+      "consent": {
+        "title": "Consentement et information",
+        "description": "Créez des liens externes pour recueillir les consentements et informer vos utilisateurs selon les standards légaux.",
+        "feature1": "Formulaires conformes",
+        "feature2": "Preuves horodatées"
+      }
+    },
+    "law": {
+      "title": "Que dit la loi 18-07 ?",
+      "subtitle": "La loi 18-07 relative à la protection des personnes physiques dans le traitement des données à caractère personnel impose des obligations strictes aux entreprises algériennes.",
+      "article27": "Tenue obligatoire d'un registre des activités de traitement",
+      "article13": "Information transparente des personnes concernées",
+      "article24": "Sécurité et confidentialité des données",
+      "downloadChecklist": "Télécharger la checklist complète",
+      "sanctions": {
+        "title": "Sanctions en cas de non-conformité",
+        "fine": "Amendes jusqu'à 3 millions DA",
+        "fineSubtitle": "Pour les personnes morales",
+        "prison": "Emprisonnement possible",
+        "prisonSubtitle": "Pour les responsables physiques",
+        "suspension": "Suspension d'activité",
+        "suspensionSubtitle": "En cas de manquements graves"
+      }
+    },
+    "why": {
+      "title": "Pourquoi choisir DP-Manager ?",
+      "subtitle": "Fruit de la collaboration entre juristes, informaticiens et chefs de projet, cette solution transforme vos défis en résultats concrets.",
+      "production": {
+        "title": "En production",
+        "description": "Déjà utilisé par des entreprises et organismes publics algériens"
+      },
+      "lawyers": {
+        "title": "Juristes spécialisés",
+        "description": "Développé avec des experts du droit algérien des données personnelles"
+      },
+      "proof": {
+        "title": "Preuve légale",
+        "description": "Génération automatique de documents opposables en cas de contrôle"
+      },
+      "time": {
+        "title": "Gain de temps",
+        "description": "Automatisation complète des processus de conformité"
+      }
+    },
+    "testimonial": {
+      "quote": "DP-Manager nous a permis de mettre en conformité notre organisation en quelques semaines. L'accompagnement juridique et la simplicité d'utilisation sont remarquables.",
+      "author": "M. Lyes MATOUG",
+      "position": "DPO, SPA CONDOR"
+    },
+    "cta": {
+      "title": "Passez à une conformité claire, documentée et sécurisée. ",
+      "subtitle": "Rejoignez les entreprises qui font confiance à DP-Manager pour leur conformité à la loi 18-07.",
+      "button": "Demander une démonstration gratuite"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Notre mission : vous protéger, juridiquement.",
+      "subtitle": "DP-Manager est née de la nécessité de simplifier la conformité à la loi 18-07 pour les entreprises algériennes, sans compromis sur la rigueur juridique."
+    },
+    "story": {
+      "title": "Notre histoire",
+      "paragraph1": "Fondée en 2023 par une équipe de juristes spécialisés en droit des données personnelles et d'experts technologiques, DP-Manager répond à un constat simple : la complexité de mise en conformité avec la loi 18-07 freine les entreprises algériennes.",
+      "paragraph2": "Notre plateforme combine l'expertise juridique algérienne avec les meilleures pratiques technologiques internationales pour offrir une solution complète, accessible et juridiquement robuste.",
+      "paragraph3": "Aujourd'hui, nous accompagnons des dizaines d'organismes publics et privés dans leur mise en conformité, avec un taux de satisfaction de 98%.",
+      "stats": {
+        "clients": "Clients accompagnés",
+        "satisfaction": "Taux de satisfaction",
+        "response": "Temps de réponse moyen",
+        "compliance": "Conformité garantie"
+      }
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "subtitle": "Les principes qui guident notre action au quotidien",
+      "rigor": {
+        "title": "Rigueur juridique",
+        "description": "Conformité absolue avec la législation algérienne et les meilleures pratiques internationales."
+      },
+      "simplicity": {
+        "title": "Simplicité",
+        "description": "Rendre accessible la conformité complexe grâce à une interface intuitive et des processus automatisés."
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Protection maximale des données avec les standards de sécurité les plus élevés."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Amélioration continue de nos services pour dépasser les attentes de nos clients."
+      }
+    },
+    "team": {
+      "title": "Notre équipe",
+      "subtitle": "Des experts dédiés à votre conformité",
+      "ahmed": {
+        "name": "Me. Ahmed Benali",
+        "position": "Directeur Juridique",
+        "description": "Avocat spécialisé en droit des données, 15 ans d'expérience"
+      },
+      "fatima": {
+        "name": "Fatima Zerrouki",
+        "position": "CTO",
+        "description": "Ingénieure logiciel, experte en sécurité et conformité"
+      },
+      "karim": {
+        "name": "Karim Messaoud",
+        "position": "Directeur Commercial",
+        "description": "10 ans d'expérience dans l'accompagnement d'entreprises"
+      }
+    },
+    "legal": {
+      "title": "Fondation légale solide",
+      "subtitle": "DP-Manager s'appuie sur une connaissance approfondie du cadre juridique algérien et des meilleures pratiques internationales en matière de protection des données.",
+      "references": {
+        "title": "Références légales",
+        "law": "Loi 18-07 du 10 juin 2018",
+        "decrees": "Décrets d'application",
+        "doctrine": "Doctrine ANDP",
+        "jurisprudence": "Jurisprudence nationale"
+      },
+      "standards": {
+        "title": "Standards internationaux",
+        "gdpr": "RGPD européen",
+        "iso": "ISO 27001",
+        "cnil": "Meilleures pratiques CNIL",
+        "nist": "Standards NIST"
+      }
+    }
+  },
+  "resources": {
+    "hero": {
+      "title": "Centre de ressources",
+      "subtitle": "Documents, guides et articles pour maîtriser la loi 18-07 et optimiser votre conformité."
+    },
+    "documents": {
+      "title": "Documents à télécharger",
+      "guide": {
+        "title": "Loi 18-07",
+        "description": "Texte officiel"
+      },
+      "checklist": {
+        "title": "Checklist de conformité",
+        "description": "Liste de vérification pour votre mise en conformité"
+      },
+      "policy": {
+        "title": "Modèle de politique de confidentialité",
+        "description": "Template personnalisable selon votre secteur"
+      },
+      "registry": {
+        "title": "Registre des traitements - Modèle",
+        "description": "Format Excel conforme à l'article 27"
+      },
+      "download": "Télécharger"
+    },
+    "articles": {
+      "title": "Articles réglementaires",
+      "readMore": "Lire la suite →",
+      "viewAll": "Voir tous les articles"
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "q1": {
+        "question": "Qui est concerné par la loi 18-07 ?",
+        "answer": "Toute entreprise ou organisme qui traite des données personnelles de résidents algériens, qu'elle soit établie en Algérie ou à l'étranger."
+      },
+      "q2": {
+        "question": "Quel est le délai pour se mettre en conformité ?",
+        "answer": "La loi est en vigueur depuis aout 2023 Les contrôles se renforcent progressivement. Il est recommandé de se mettre en conformité dans les plus brefs délais."
+      },
+      "q3": {
+        "question": "DP-Manager remplace-t-il un DPO ?",
+        "answer": "DP-Manager facilite le travail du DPO mais ne le remplace pas. Nous proposons également des services d'accompagnement avec des DPO certifiés."
+      }
+    }
+  },
+  "partners": {
+    "hero": {
+      "title": "Nos partenaires",
+      "subtitle": "Un écosystème d'experts pour vous accompagner dans votre conformité à la loi 18-07."
+    },
+    "benefits": {
+      "title": "Pourquoi devenir partenaire ?",
+      "subtitle": "Rejoignez notre réseau d'experts et développez votre activité dans la conformité.",
+      "clients": {
+        "title": "Clients qualifiés",
+        "description": "Accédez à un portefeuille de clients pré-qualifiés ayant des besoins de conformité."
+      },
+      "expertise": {
+        "title": "Expertise reconnue",
+        "description": "Bénéficiez de notre label qualité et de notre réputation sur le marché algérien."
+      },
+    
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Participez au développement de nouvelles fonctionnalités et services."
+      }
+    },
+    "legal": {
+      "title": "Partenaires juridiques",
+      "subtitle": "Cabinets d'avocats spécialisés en protection des données personnelles"
+    },
+    "tech": {
+      "title": "Partenaires technologiques",
+      "subtitle": "Intégrateurs et consultants techniques spécialisés"
+    },
+    "types": {
+      "title": "Types de partenariats",
+      "legal": {
+        "title": "Partenaire juridique",
+        "item1": "Accompagnement clients dans la mise en conformité",
+        "item2": "Formation et certification sur la loi 18-07",
+        "item3": "Accès privilégié aux leads qualifiés",
+        "item4": "Commission sur les ventes générées",
+        "prerequisite": "Prérequis :",
+        "prerequisiteText": "Cabinet d'avocats inscrit au barreau algérien avec spécialisation en droit des données."
+      },
+      "tech": {
+        "title": "Partenaire technique",
+        "item1": "Intégration DP-Manager dans les SI clients",
+        "item2": "Formation technique et certification plateforme",
+        "item3": "Support technique de niveau 2",
+        "item4": "Développement de connecteurs spécifiques",
+        "prerequisite": "Prérequis :",
+        "prerequisiteText": "Société de services informatiques avec références en intégration d'applications métier."
+      }
+    },
+    "cta": {
+      "title": "Prêt à devenir partenaire ?",
+      "subtitle": "Rejoignez notre écosystème de partenaires et développez votre activité dans la conformité.",
+      "apply": "Candidater comme partenaire",
+      "download": "Télécharger le dossier partenaire"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "subtitle": "Notre équipe d'experts est à votre disposition pour répondre à vos questions sur la conformité à la loi 18-07."
+    },
+    "commercial": {
+      "title": "Service Commercial",
+      "email": "Email",
+      "phones": "Téléphones"
+    },
+    "technical": {
+      "title": "Service Technique",
+      "email": "Email",
+      "phones": "Téléphones"
+    },
+    "fixed": {
+      "title": "Lignes fixes et Fax",
+      "phones": "Fixes",
+      "fax": "Fax"
+    },
+    "address": {
+      "title": "Adresse",
+      "text": "Rue G N° 1 Cité Naimi Centre ZABANA\nBlida - Algérie"
+    },
+    "form": {
+      "title": "Demande d'information",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email professionnel",
+      "company": "Entreprise/Organisation",
+      "phone": "Téléphone",
+      "subject": "Sujet de votre demande",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez vos besoins de conformité ou posez votre question...",
+      "send": "Envoyer ma demande",
+      "required": "Champs obligatoires. Vos données sont traitées conformément à la loi 18-07.",
+      "subjects": {
+        "demo": "Demande de démonstration",
+        "pricing": "Information sur les tarifs",
+        "partnership": "Partenariat",
+        "support": "Support technique",
+        "legal": "Question juridique",
+        "other": "Autre"
+      }
+    },
+    "info": {
+      "title": "Coordonnées directes",
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse",
+      "hours": "Horaires",
+      "hoursText": "Dimanche - Jeudi\n9h00 - 17h00"
+    },
+    "response": {
+      "title": "Temps de réponse garanti",
+      "text": "Nous nous engageons à vous répondre sous 24h ouvrées maximum. Pour les demandes urgentes, appelez-nous directement."
+    },
+    "emergency": {
+      "title": "Urgence conformité ?",
+      "text": "En cas de contrôle imminent ou de faille de sécurité, contactez notre ligne d'urgence.",
+      "button": "Ligne d'urgence : 0560 403 405"
+    }
+  },
+  "demo": {
+    "hero": {
+      "title": "Demander une démonstration",
+      "subtitle": "Découvrez comment DP-Manager peut transformer votre conformité à la loi 18-07 en quelques minutes."
+    },
+    "form": {
+      "title": "Planifiez votre démonstration personnalisée",
+      "subtitle": "Remplissez le formulaire ci-dessous et notre équipe vous contactera pour organiser une démonstration adaptée à vos besoins spécifiques.",
+      "iframeTitle": "Formulaire de demande de démonstration"
+    },
+    "benefits": {
+      "title": "Ce que vous découvrirez lors de la démonstration",
+      "registry": {
+        "title": "Registre automatisé",
+        "description": "Voyez comment créer votre registre des traitements en quelques clics"
+      },
+      "documents": {
+        "title": "Documents conformes",
+        "description": "Génération automatique de tous vos documents légaux"
+      },
+      "dashboard": {
+        "title": "Tableau de bord",
+        "description": "Pilotez votre conformité en temps réel avec des indicateurs clairs"
+      }
+    },
+    "help": {
+      "title": "Besoin d'aide pour remplir le formulaire ?",
+      "subtitle": "Notre équipe est disponible pour vous accompagner dans votre demande.",
+      "email": "✉️ contact@leadersoft.dz"
+    }
+  },
+  "footer": {
+    "description": "La première plateforme algérienne de conformité à la loi 18-07 sur la protection des données personnelles.",
+    "navigation": "Navigation",
+    "legal": "Légal",
+  "legalNotices": "Mentions légales",
+  "privacyPolicy": "Politique de confidentialité",
+  "terms": "CGU",
+  "law": "Loi 18-07",
+  
+    "contact": "Contact",
+    "copyright": "© 2025 DP-Manager. Tous droits réservés. | Solution de conformité à la loi 18-07 sur la protection des données personnelles."
+  },
+  "common": {
+    "readMore": "Lire la suite",
+    "learnMore": "En savoir plus",
+    "download": "Télécharger",
+    "client": "Client"
+  }
+}

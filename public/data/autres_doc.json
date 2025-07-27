@@ -1,0 +1,90 @@
+{
+  "fr": [
+    {
+      "id": 1,
+      "title": "Référentiel National de Sécurité de l’Information",
+      "description": "Fichier PDF",
+      "filename": "Modele-registre-traitements.pdf",
+      "path": "/autres_doc_fr/RNSI-2020.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Loi 18-07 : Principes, droits et obligations",
+      "description": "Document PDF",
+      "filename": "Loi 18-07 : Principes, droits et obligations.pdf",
+      "path": "/autres_doc_fr/Loi 18-07  Principes, droits et obligations.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Fiche technique DP-Manager",
+      "description": "Document PDF",
+      "filename": "Fiche-technique-DP-Manager.pdf",
+      "path": "/autres_doc_fr/Dp-manager_fiche_technique.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Guide d'utilisation de DP-Manager",
+      "description": "Document PDF",
+      "filename": "Guide d'utilisation de DP-Manager.pdf",
+      "path": "/autres_doc_fr/Guide d'utilisation de DP-Manager.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Modèle de politique de confidentialité",
+      "description": "Document PDF",
+      "filename": "Fiche-technique-DP-Manager.pdf",
+      "path": "/autres_doc_fr/bientot disponible.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Guide d'analyse d'impact (PIA)",
+      "description": "Document PDF",
+      "filename": "Fiche-technique-DP-Manager.pdf",
+      "path": "/autres_doc_fr/bientot disponible.pdf"
+    }
+  ],
+  "ar": [
+    {
+      "id": 1,
+      "title":  "المرجع الوطني لأمن المعلومات (RNSI)",
+      "description": "ملف PDF لا توجد نسخة عربية",
+      "filename": "نموذج-سجل-المعالجات.pdf",
+      "path": "/autres_doc_fr/RNSI-2020.pdf"
+    },
+    {
+      "id": 2,
+      "title": "قائمة مرجعية للامتثال للقانون 18-07",
+      "description": "وثيقة PDF",
+      "filename": "قائمة-مرجعية-الامتثال-18-07.pdf",
+      "path": "/autres_doc_fr/bientot disponible.pdf"
+    },
+    {
+      "id": 3,
+      "title": "نموذج سياسة الخصوصية",
+      "description": "وثيقة Word",
+      "filename": "نموذج-سياسة-الخصوصية.docx",
+      "path": "/autres_doc_fr/bientot disponible.pdf"
+    },
+    {
+      "id": 4,
+      "title": "دليل تحليل الأثر (PIA)",
+      "description": "وثيقة PDF",
+      "filename": "دليل-تحليل-الأثر-PIA.pdf",
+      "path": "/autres_doc_fr/bientot disponible.pdf"
+    },
+    {
+      "id": 5,
+      "title": "عرض تقديمي DP-Manager",
+      "description": "عرض PowerPoint",
+      "filename": "عرض-تقديمي-DP-Manager.pptx",
+      "path": "/autres_doc_fr/bientot disponible.pdf"
+    },
+    {
+      "id": 6,
+      "title": "البطاقة التقنية DP-Manager",
+      "description": "وثيقة PDF",
+      "filename": "البطاقة-التقنية-DP-Manager.pdf",
+      "path": "/Dp-manager_fiche_technique_ar.pdf"
+    }
+  ]
+}
