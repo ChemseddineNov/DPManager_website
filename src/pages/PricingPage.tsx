@@ -145,7 +145,8 @@ const PricingPage = () => {
     {
       name: 'TPE',
       nameAr: 'مؤسسة صغيرة جداً',
-      price: isRTL ? '800 دج (السنة الأولى) ثم 15,900 دج/سنة' : '79 000 DA (1ère année) puis 15 900 DA/an',
+      price: isRTL ? '79 000 دج ش.ض' : '79 000 DA HT',
+      priceDetail: isRTL ? '(السنة الأولى) ثم 15 900 دج/سنة' : '(1ère année) puis 15 900 DA/an',
       description: isRTL ? 'مثالي للشركات الصغيرة' : 'Idéal pour les petites entreprises',
       icon: Users,
       color: 'bg-blue-500',
@@ -154,7 +155,8 @@ const PricingPage = () => {
     {
       name: 'PME',
       nameAr: 'مؤسسة متوسطة',
-      price: isRTL ? '189,000 دج (السنة الأولى) ثم 37,900 دج/سنة' : '189 000 DA (1ère année) puis 37 900 DA/an',
+      price: isRTL ? '189 000 دج ش.ض' : '189 000 DA HT',
+      priceDetail: isRTL ? '(السنة الأولى) ثم 37 900 دج/سنة' : '(1ère année) puis 37 900 DA/an',
       description: isRTL ? 'الأنسب للشركات المتوسطة' : 'Parfait pour les entreprises moyennes',
       icon: Shield,
       color: 'bg-violet-500',
@@ -163,7 +165,8 @@ const PricingPage = () => {
     {
       name: isRTL ? 'مؤسسة كبيرة' : 'Grande entreprise',
       nameAr: 'مؤسسة كبيرة',
-      price: isRTL ? '420,000 دج (السنة الأولى) ثم 80,000 دج/سنة' : '420 000 DA (1ère année) puis 80 000 DA/an',
+      price: isRTL ? '420 000 دج ش.ض' : '420 000 DA HT',
+      priceDetail: isRTL ? '(السنة الأولى) ثم 80 000 دج/سنة' : '(1ère année) puis 80 000 DA/an',
       description: isRTL ? 'للمؤسسات الكبيرة والمعقدة' : 'Pour les grandes organisations complexes',
       icon: Zap,
       color: 'bg-green-500',
