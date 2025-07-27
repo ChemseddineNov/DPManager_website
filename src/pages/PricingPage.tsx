@@ -8,6 +8,16 @@ const PricingPage = () => {
   const { i18n } = useTranslation();
   const isRTL = i18n.language === 'ar';
 
+  const scrollToComparison = () => {
+    const comparisonSection = document.getElementById('comparison-table');
+    if (comparisonSection) {
+      comparisonSection.scrollIntoView({ 
+        behavior: 'smooth',
+        block: 'start'
+      });
+    }
+  };
+
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -234,16 +244,16 @@ const PricingPage = () => {
                     </div>
                   </div>
                   
-                  <Link
-                    to="/demo"
-                    className={`w-full py-3 px-6 rounded-lg font-semibold text-center block transition-colors ${
+                  <button
+                    onClick={scrollToComparison}
+                    className={`w-full py-3 px-6 rounded-lg font-semibold text-center transition-colors ${
                       plan.popular 
                         ? 'bg-violet-600 text-white hover:bg-violet-700' 
                         : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
-                    {isRTL ? 'طلب عرض توضيحي' : 'Demander une démo'}
-                  </Link>
+                    {isRTL ? 'عرض التفاصيل' : 'Voir les détails'}
+                  </button>
                 </div>
               );
             })}
@@ -252,7 +262,7 @@ const PricingPage = () => {
       </section>
 
       {/* Features Comparison Table */}
-      <section className="py-20 bg-white">
+      <section id="comparison-table" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-blue-900 mb-4">
