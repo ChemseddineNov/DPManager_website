@@ -37,9 +37,9 @@ const PricingPage = () => {
     },
     {
       name: isRTL ? 'سجل المعالجات' : 'Registre des traitements',
-      tpe: isRTL ? '6 معالجات ' : '✅ (10/mois)',
-      pme: isRTL ? '✅ (100/شهر)' : '✅ (100/mois)',
-      enterprise: isRTL ? '✅ (غير محدود)' : '✅ (Illimité)'
+      tpe: isRTL ? '6 معالجات ' : 'traitements 6'
+      pme: isRTL ? '15 معالجة : '✅ (100/mois)',
+      enterprise: isRTL ? '(غير محدود)' : '✅ (Illimité)'
     },
     {
       name: isRTL ? 'سجل التراخيص' : 'Registre des autorisations',
